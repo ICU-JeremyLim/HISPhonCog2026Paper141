@@ -1,0 +1,52 @@
+﻿Question_Number,Response
+Q1_Age,18
+Q2_Gender,Male
+Q3_Country,United States / 美國 / アメリカ
+Q3_Region,Kentucky
+Q4_Num_L1,1
+Q4_L1_Languages,"English / 英語 / 英語"
+Q5_Num_Languages,1
+Q5_Languages,"Japanese / 日語 / 日本語 / 日本語"
+Q6_Music_Years,0
+Q7_Absolute_Pitch,NOT SURE
+Q8_Pronunciation_Training,YES
+11,Low
+12,High
+13,Low
+14,Low
+15,High
+16,Low
+17,Low
+18,Low
+19,Low
+20,Low
+21,Low
+22,Low
+23,Low
+24,Low
+25,Low
+26,High
+27,ap
+28,ap
+29,ak
+30,at
+31,ah
+32,ap
+33,ap
+34,at
+35,at
+36,at
+37,at
+38,ah
+39,ah
+40,ah
+41,at
+42,at
+43,lak
+44,pat
+45,tat
+46,tah
+47,tsat
+48,bah
+49,lah
+50,kak
