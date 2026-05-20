@@ -1,0 +1,106 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.418716053581921 
+tiers? <exists> 
+size = 7 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Segment_S" 
+        xmin = 0 
+        xmax = 0.418716053581921 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.16279386772922066 
+            text = "a" 
+        intervals [2]:
+            xmin = 0.16279386772922066 
+            xmax = 0.29641015369251633 
+            text = "k" 
+        intervals [3]:
+            xmin = 0.29641015369251633 
+            xmax = 0.418716053581921 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Segment_E" 
+        xmin = 0 
+        xmax = 0.418716053581921 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.418716053581921 
+            text = "ak" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Segment_P" 
+        xmin = 0 
+        xmax = 0.418716053581921 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29641015369251633 
+            text = "ak" 
+        intervals [2]:
+            xmin = 0.29641015369251633 
+            xmax = 0.418716053581921 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Romaji" 
+        xmin = 0 
+        xmax = 0.418716053581921 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29985542620896766 
+            text = "ak" 
+        intervals [2]:
+            xmin = 0.29985542620896766 
+            xmax = 0.418716053581921 
+            text = "xxx" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "Coda" 
+        xmin = 0 
+        xmax = 0.418716053581921 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29985542620896766 
+            text = "k" 
+        intervals [2]:
+            xmin = 0.29985542620896766 
+            xmax = 0.418716053581921 
+            text = "xxx" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "Tone" 
+        xmin = 0 
+        xmax = 0.418716053581921 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29985542620896766 
+            text = "4" 
+        intervals [2]:
+            xmin = 0.29985542620896766 
+            xmax = 0.418716053581921 
+            text = "xxx" 
+    item [7]:
+        class = "IntervalTier" 
+        name = "Number" 
+        xmin = 0 
+        xmax = 0.418716053581921 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29985542620896766 
+            text = "V03-UTC001-P-NAN001" 
+        intervals [2]:
+            xmin = 0.29985542620896766 
+            xmax = 0.418716053581921 
+            text = "xxx" 
