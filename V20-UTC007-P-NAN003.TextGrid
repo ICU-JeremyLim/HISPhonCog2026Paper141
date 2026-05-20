@@ -1,0 +1,90 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.4369522946657014 
+tiers? <exists> 
+size = 7 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Segment_S" 
+        xmin = 0 
+        xmax = 0.4369522946657014 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26839123269100185 
+            text = "a" 
+        intervals [2]:
+            xmin = 0.26839123269100185 
+            xmax = 0.3871402838533413 
+            text = "h" 
+        intervals [3]:
+            xmin = 0.3871402838533413 
+            xmax = 0.4369522946657014 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Segment_E" 
+        xmin = 0 
+        xmax = 0.4369522946657014 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4369522946657014 
+            text = "ah" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Segment_P" 
+        xmin = 0 
+        xmax = 0.4369522946657014 
+        intervals: size = 2 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3871402838533413 
+            text = "ah" 
+        intervals [2]:
+            xmin = 0.3871402838533413 
+            xmax = 0.4369522946657014 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Romaji" 
+        xmin = 0 
+        xmax = 0.4369522946657014 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4369522946657014 
+            text = "ah" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "Coda" 
+        xmin = 0 
+        xmax = 0.4369522946657014 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4369522946657014 
+            text = "h" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "Tone" 
+        xmin = 0 
+        xmax = 0.4369522946657014 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4369522946657014 
+            text = "4" 
+    item [7]:
+        class = "IntervalTier" 
+        name = "Number" 
+        xmin = 0 
+        xmax = 0.4369522946657014 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4369522946657014 
+            text = "V20-UTC007-P-NAN003" 
