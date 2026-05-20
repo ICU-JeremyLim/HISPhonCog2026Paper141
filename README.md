@@ -91,8 +91,7 @@ The perception experiment was administered online. The experiment is accessible 
 
 If you use this dataset, please cite the accompanying paper:
 
-> *Acoustic Cues and Cross-Linguistic Perception of Checked Tones in Southern Min.* HISPhonCog 2026, Paper 141.
-
+> *Lim, J. (2026). Acoustic cues and cross-linguistic perception of checked tones in Southern Min. HISPhonCog 2026, Paper 141.
 ---
 
 ## License
